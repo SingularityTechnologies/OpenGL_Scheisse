@@ -7,7 +7,7 @@ Library dependencies would be GLFW 3.1 for window context handling. All projects
 
 CHANGELOG:
 
-Test Build v1.0:
+Test Build v0.1:
 Original build. Consists of a simple main loop which refreshes the buffer of a GLFW context window.
 Key callback of window checks for escape key and closes upon press thereof.
 
