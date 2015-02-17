@@ -1,0 +1,5 @@
+Project OpenGL Scheisse version list:
+
+Test Build v0.1   - Renders GLFW window context and creates a key callback to close on press of ESC.
+
+Test Build v0.1.1 - Adds OpenGL version output and includes GLEW library.
